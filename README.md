@@ -1,5 +1,5 @@
 # GoogleDraw
-UofT Hackathon Project - A voice assistant that helps you draw art using "Google Assistant"
+UofT Hackathon Project :confetti_ball: - A voice assistant that helps you draw art using "Google Assistant"
 
 ## Our Logo - 
 
